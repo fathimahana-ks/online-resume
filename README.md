@@ -66,21 +66,13 @@ This is a personal website that highlights my journey as a software developer. T
 
 ---
 
-## 📌 Future Scope
-
-- Add custom styling with CSS for a more polished look
-- Integrate JavaScript for interactivity
-- Deploy on GitHub Pages or similar platform
-  
----
-
 ## 🖼 Preview
 
 ![Screenshot of resume](./preview.png)  
 
 ---
 
-## Contact
+## Contact Me
 
 **Fathima Hana**  
 📧 [fathimahanaks@gmail.com](mailto:fathimahanaks@gmail.com)  
