@@ -28,15 +28,13 @@ This is a personal website that highlights my journey as a software developer. T
 ---
 
 ## File Structure
-```
-online-resume/
-│
-├── `index.html` # Main resume page
-├── `hobbies.html` # Hobbies section
-├── `contact.html` # Contact information
-├── `passport photo.jpg` # Profile picture
-└── README.md # Project documentation
-```
+`online-resume`/<br>
+│<br>
+├── `index.html` # Main resume page<br>
+├── `hobbies.html` <br>
+├── `contact.html` <br>
+├── `passport photo.jpg` <br>
+└── `README.md` <br>
 
 
 ---
