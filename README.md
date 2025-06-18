@@ -10,7 +10,7 @@ This is a personal website that highlights my journey as a software developer. T
 
 ---
 
-## Tech Stack
+## Tech  Stack
 
 - *HTML5* – Semantic tags for structured layout
 - *Image Handling* – Embedded local image for profile
@@ -18,7 +18,7 @@ This is a personal website that highlights my journey as a software developer. T
 
 ---
 
-## Key Features
+## Key  Features
 
 - One-page resume layout using semantic HTML
 - Internal links to hobbies and contact sections
@@ -66,7 +66,7 @@ This is a personal website that highlights my journey as a software developer. T
 
 ---
 
-##  Preview
+## Preview
 
 <img src="./preview.png" alt="Screenshot of resume" width="400"/>
 
