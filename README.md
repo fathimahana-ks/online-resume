@@ -66,9 +66,9 @@ This is a personal website that highlights my journey as a software developer. T
 
 ---
 
-## 🖼 Preview
+##  Preview
 
-![Screenshot of resume](./preview.png)  
+<img src="./preview.png" alt="Screenshot of resume" width="400"/>
 
 ---
 
